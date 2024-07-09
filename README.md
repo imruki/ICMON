@@ -10,9 +10,9 @@ ICMON is a course project (CS-107) aimed to recreate Pokémon Emerald in Java. T
 
 ## Screenshots
 <div style="display: flex; justify-content: space-around;">
- <img src="./icmon/src/main/resources/screenshots/screenshot1.JPG" width="33%"/> 
- <img src="./icmon/src/main/resources/screenshots/screenshot2.JPG" width="33%"/> 
- <img src="./icmon/src/main/resources/screenshots/screenshot3.JPG" width="33%"/> 
+ <img src="./icmon/src/main/resources/screenshots/screenshot1.JPG" width="30%"/> 
+ <img src="./icmon/src/main/resources/screenshots/screenshot2.JPG" width="30%"/> 
+ <img src="./icmon/src/main/resources/screenshots/screenshot3.JPG" width="30%"/> 
 </div>
 
 ## Getting Started
